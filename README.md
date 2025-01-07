@@ -50,6 +50,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 
+
 ## 🚀 About Me
 - 🎓 Currently a 4th Year BSIT Student at Jose Rizal University
 - 🌱 Learning and growing in both frontend and backend development
