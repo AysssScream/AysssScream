@@ -29,11 +29,11 @@
   <table border="0" width="100%">
     <tr>
       <td align="center" width="25%" style="padding: 20px;">
-        <div style="background: linear-gradient(to right, #6F3DFF, #A682FF); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+        <div style="background: linear-gradient(45deg, #FF6B6B, #FF8E8E); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; box-shadow: 0 4px 8px rgba(255,107,107,0.3);">
           <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=50&height=50&lines=👨‍🎓" />
         </div>
         <br>
-        <b>Education</b>
+        <b style="color: #FF6B6B;">Education</b>
         <br><br>
         4th Year BSIT Student
         <br>
@@ -41,11 +41,11 @@
         <br><br>
       </td>
       <td align="center" width="25%" style="padding: 20px;">
-        <div style="background: linear-gradient(to right, #6F3DFF, #A682FF); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+        <div style="background: linear-gradient(45deg, #4ECDC4, #45B7AF); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; box-shadow: 0 4px 8px rgba(78,205,196,0.3);">
           <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=50&height=50&lines=📚" />
         </div>
         <br>
-        <b>Learning Journey</b>
+        <b style="color: #4ECDC4;">Learning Journey</b>
         <br><br>
         Frontend and Backend
         <br>
@@ -53,11 +53,11 @@
         <br><br>
       </td>
       <td align="center" width="25%" style="padding: 20px;">
-        <div style="background: linear-gradient(to right, #6F3DFF, #A682FF); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+        <div style="background: linear-gradient(45deg, #FFD93D, #FFE566); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; box-shadow: 0 4px 8px rgba(255,217,61,0.3);">
           <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=50&height=50&lines=🎯" />
         </div>
         <br>
-        <b>Goal</b>
+        <b style="color: #FFD93D;">Goal</b>
         <br><br>
         Creating Powerful &
         <br>
@@ -65,11 +65,11 @@
         <br><br>
       </td>
       <td align="center" width="25%" style="padding: 20px;">
-        <div style="background: linear-gradient(to right, #6F3DFF, #A682FF); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+        <div style="background: linear-gradient(45deg, #6C63FF, #837DFF); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px; box-shadow: 0 4px 8px rgba(108,99,255,0.3);">
           <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=50&height=50&lines=💼" />
         </div>
         <br>
-        <b>Portfolio</b>
+        <b style="color: #6C63FF;">Portfolio</b>
         <br><br>
         Academic & Personal
         <br>
@@ -79,6 +79,7 @@
     </tr>
   </table>
 </div>
+
 
 
 ## 💻 Experience
