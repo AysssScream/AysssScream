@@ -16,31 +16,19 @@
   <!-- Top Border -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=header&animation=fadeIn" width="100%"/>
 
-  <!-- Introduction -->
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
-  
-  <!-- Role Description -->
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=600&lines=💻+BSIT+Student+at+Jose+Rizal+University+|+Full+Stack+Developer" alt="Role"/>
+  <br>
+  <p style="font-size: 20px;">
+    💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
   </p>
-
-  <!-- Decorative Separator -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-  <!-- Stats Section -->
+</div>
   <div align="center">
-    <!-- Stats Header -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=280&height=40&lines=Profile+Statistics" alt="Stats Label"/>
-    
-    <!-- Profile Views Counter - Using hits.seeyoufarm.com -->
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAysssScream&count_bg=%236F3DFF&title_bg=%232D2B55&icon=github.svg&icon_color=%23FFFFFF&title=PROFILE+VIEWS&edge_flat=true" alt="Profile Views"/>
-    <br><br>
-    <!-- GitHub Followers -->
-    <img src="https://img.shields.io/github/followers/AysssScream?style=for-the-badge&logo=github&color=6F3DFF&labelColor=2D2B55&label=GitHub+Followers" alt="Followers"/>
-  </div>
-
-  <!-- Decorative Separator -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
   <!-- Bottom Border -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
