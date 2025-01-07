@@ -19,51 +19,35 @@
     💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
   </p>
   
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AysssScream&label=Profile%20Views&color=6F3DFF&style=for-the-badge" alt="Profile Views"/>
-  </p>
-</div>
-
 <div align="center">
+  <!-- Top Border -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=header&text=&fontSize=0" width="100%"/>
+
+  <!-- Introduction -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
   <br>
   <p style="font-size: 20px;">
     💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
   </p>
-  
-  <!-- Animated Stats Section -->
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=200&height=40&lines=%F0%9F%91%80+Profile+Views" alt="Profile Views Label"/>
-    <br>
-    <!-- Custom Animated Counter -->
-    <a href="https://github.com/AysssScream">
-      <img src="https://profile-counter.glitch.me/AysssScream/count.svg" alt="Visitor Count" 
-           style="background: linear-gradient(to right, #6F3DFF, #A78BFA); border-radius: 10px; padding: 10px; box-shadow: 0 4px 15px rgba(111, 61, 255, 0.2);"/>
-    </a>
-  </p>
 
-  <!-- GitHub Stats with Animations -->
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/AysssScream?style=for-the-badge&logo=github&labelColor=6F3DFF&color=A78BFA&label=Followers" alt="GitHub Followers"/>
-    &nbsp;
-    <img src="https://img.shields.io/github/stars/AysssScream?style=for-the-badge&logo=github&labelColor=6F3DFF&color=A78BFA&label=Stars" alt="GitHub Stars"/>
-  </p>
+  <!-- Animated Stats Container -->
+  <div align="center">
+    <!-- Stats Header -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=280&height=40&lines=Profile+Statistics" alt="Stats Label"/>
+    
+    <!-- Profile Views with Animation -->
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=AysssScream&style=for-the-badge&color=6F3DFF&label=PROFILE+VIEWS" alt="Profile Views"/>
+    </p>
+    
+    <!-- Followers Count -->
+    <p>
+      <img src="https://img.shields.io/github/followers/AysssScream?style=for-the-badge&logo=github&color=6F3DFF&labelColor=2D2B55&label=GitHub+Followers" alt="Followers"/>
+    </p>
+  </div>
 
-  <!-- Alternative Animated Counter -->
-  <p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAysssScream&count_bg=%236F3DFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Total+Views&edge_flat=false" alt="Profile Views"/>
-  </p>
-
-  <!-- Animated Badges -->
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=6F3DFF&height=40&section=header&text=Profile%20Statistics&fontSize=20&fontColor=ffffff&animation=fadeIn" />
-  </p>
-  
-  <!-- Combined Stats in One Line -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AysssScream&style=for-the-badge&color=6F3DFF&label=PROFILE+VIEWS" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/last-commit/AysssScream/AysssScream?style=for-the-badge&color=6F3DFF&label=LAST+UPDATE" alt="Last Update"/>
-  </p>
+  <!-- Bottom Border -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 
 ## 🚀 About Me
