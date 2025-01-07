@@ -73,6 +73,54 @@
 </div>
 
 
+## 🚀 About Me
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://img.shields.io/badge/👨‍🎓-6F3DFF?style=for-the-badge&logoWidth=40&labelColor=6F3DFF" />
+        <br><br>
+        <b>Education</b>
+        <br><br>
+        4th Year BSIT Student
+        <br>
+        Jose Rizal University
+        <br><br>
+      </td>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://img.shields.io/badge/📚-6F3DFF?style=for-the-badge&logoWidth=40&labelColor=6F3DFF" />
+        <br><br>
+        <b>Learning Journey</b>
+        <br><br>
+        Frontend and Backend
+        <br>
+        Development
+        <br><br>
+      </td>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://img.shields.io/badge/🎯-6F3DFF?style=for-the-badge&logoWidth=40&labelColor=6F3DFF" />
+        <br><br>
+        <b>Goal</b>
+        <br><br>
+        Creating Powerful &
+        <br>
+        Beautiful Solutions
+        <br><br>
+      </td>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://img.shields.io/badge/💼-6F3DFF?style=for-the-badge&logoWidth=40&labelColor=6F3DFF" />
+        <br><br>
+        <b>Portfolio</b>
+        <br><br>
+        Academic & Personal
+        <br>
+        Projects
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ## 💻 Experience
