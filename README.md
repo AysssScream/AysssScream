@@ -202,12 +202,43 @@
     </a>
   </p>
 
-  <!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&height=100&lines=Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaborations+and+new+opportunities+%F0%9F%A4%9D" alt="Typing SVG" />
-
-  <!-- Final Message -->
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+<div align="center">
+  <!-- Decorative Top Border -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=header&text=&fontSize=0" width="100%"/>
+  
+  <!-- Thank You Message -->
+  <div style="background: linear-gradient(to right, #6F3DFF, #A78BFA); padding: 20px; border-radius: 15px; margin: 20px; box-shadow: 0 4px 15px rgba(111, 61, 255, 0.2);">
+    <h2>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Thank+You+for+Visiting!+%F0%9F%8C%9F" alt="Thank You" />
+    </h2>
+  </div>
+  
+  <!-- Social Media Links with Hover Effect -->
+  <p style="margin: 30px 0;">
+    <a href="your-linkedin-url" style="margin: 0 10px; text-decoration: none; transition: transform 0.3s ease;">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+    </a>
+    <a href="mailto:your.email@gmail.com" style="margin: 0 10px; text-decoration: none; transition: transform 0.3s ease;">
+      <img src="https://img.shields.io/badge/Send_Me_A_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+    </a>
+    <a href="your-portfolio-url" style="margin: 0 10px; text-decoration: none; transition: transform 0.3s ease;">
+      <img src="https://img.shields.io/badge/Visit_My_Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139"/>
+    </a>
   </p>
 
+  <!-- Decorative Bottom Border -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=footer&text=&fontSize=0" width="100%"/>
+</div>
 
+<style>
+  /* Hover Effects */
+  a:hover {
+    transform: translateY(-5px);
+    filter: brightness(110%);
+  }
+
+  /* Smooth Transitions */
+  * {
+    transition: all 0.3s ease;
+  }
+</style>
