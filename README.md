@@ -28,41 +28,45 @@
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td align="center" width="25%">
-        <div style="font-size: 40px;">
-          🎓
-        </div>
-        <br>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d31-b994-6961353fa7f8.gif" width="100">
+        <br><br>
         <b>Education</b>
+        <br><br>
+        4th Year BSIT Student
         <br>
-        4th Year BSIT Student at Jose Rizal University
+        Jose Rizal University
+        <br><br>
       </td>
-      <td align="center" width="25%">
-        <div style="font-size: 40px;">
-          🌱
-        </div>
-        <br>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
+        <br><br>
         <b>Learning Journey</b>
+        <br><br>
+        Frontend and Backend
         <br>
-        Frontend and Backend Development
+        Development
+        <br><br>
       </td>
-      <td align="center" width="25%">
-        <div style="font-size: 40px;">
-          🎯
-        </div>
-        <br>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+        <br><br>
         <b>Goal</b>
+        <br><br>
+        Creating Powerful &
         <br>
-        Creating Powerful & Beautiful Solutions
+        Beautiful Solutions
+        <br><br>
       </td>
-      <td align="center" width="25%">
-        <div style="font-size: 40px;">
-          💼
-        </div>
-        <br>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100">
+        <br><br>
         <b>Portfolio</b>
+        <br><br>
+        Academic & Personal
         <br>
-        Academic & Personal Projects
+        Projects
+        <br><br>
       </td>
     </tr>
   </table>
