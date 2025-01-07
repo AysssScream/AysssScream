@@ -1,12 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200">
-</div>
-
   💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
+
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400">
+
 </div>
 
 <div align="center">
