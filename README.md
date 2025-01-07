@@ -19,7 +19,6 @@
 - 🎯 Goal: Creating solutions that are both powerful and beautiful
 - 💼 Building my portfolio with academic and personal projects
 
-<div align="center">
   <table border="0" width="100%">
     <tr>
       <td align="center" width="25%" style="padding: 20px;">
