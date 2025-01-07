@@ -76,50 +76,54 @@
 ## 🚀 About Me
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center" width="25%" style="padding: 20px; border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; background: rgba(111, 61, 255, 0.05);">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=👨‍🎓" />
-        <br><br>
-        <b style="color: #6F3DFF;">Education</b>
-        <br><br>
-        4th Year BSIT Student
-        <br>
-        Jose Rizal University
-        <br><br>
-      </td>
-      <td align="center" width="25%" style="padding: 20px; border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; background: rgba(111, 61, 255, 0.05);">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=📚" />
-        <br><br>
-        <b style="color: #6F3DFF;">Learning Journey</b>
-        <br><br>
-        Frontend and Backend
-        <br>
-        Development
-        <br><br>
-      </td>
-      <td align="center" width="25%" style="padding: 20px; border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; background: rgba(111, 61, 255, 0.05);">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=🎯" />
-        <br><br>
-        <b style="color: #6F3DFF;">Goal</b>
-        <br><br>
-        Creating Powerful &
-        <br>
-        Beautiful Solutions
-        <br><br>
-      </td>
-      <td align="center" width="25%" style="padding: 20px; border: 2px solid #6F3DFF; border-radius: 15px; margin: 10px; background: rgba(111, 61, 255, 0.05);">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=💼" />
-        <br><br>
-        <b style="color: #6F3DFF;">Portfolio</b>
-        <br><br>
-        Academic & Personal
-        <br>
-        Projects
-        <br><br>
-      </td>
-    </tr>
-  </table>
+  <kbd>
+    <div align="center" width="100%">
+      <table>
+        <tr>
+          <td align="center" width="25%">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=👨‍🎓" />
+            <br><br>
+            <b>Education</b>
+            <br><br>
+            4th Year BSIT Student
+            <br>
+            Jose Rizal University
+            <br><br>
+          </td>
+          <td align="center" width="25%">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=📚" />
+            <br><br>
+            <b>Learning Journey</b>
+            <br><br>
+            Frontend and Backend
+            <br>
+            Development
+            <br><br>
+          </td>
+          <td align="center" width="25%">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=🎯" />
+            <br><br>
+            <b>Goal</b>
+            <br><br>
+            Creating Powerful &
+            <br>
+            Beautiful Solutions
+            <br><br>
+          </td>
+          <td align="center" width="25%">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=💼" />
+            <br><br>
+            <b>Portfolio</b>
+            <br><br>
+            Academic & Personal
+            <br>
+            Projects
+            <br><br>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </kbd>
 </div>
 
 ## 💻 Experience
