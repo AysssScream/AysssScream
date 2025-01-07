@@ -42,31 +42,31 @@
 <div align="center">
   <table width="100%" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center" width="33.33%" style="padding: 20px;">
+      <td align="center" width="400px" style="padding: 30px;">
         <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="150">
         <h4>Frontend Development</h4>
         <p>
-          <img width="100%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br><br>
-          <img width="100%" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br><br>
-          <img width="100%" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br><br>
-          <img width="100%" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+          <img width="300px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br><br>
+          <img width="300px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br><br>
+          <img width="300px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br><br>
+          <img width="300px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
         </p>
       </td>
-      <td align="center" width="33.33%" style="padding: 20px;">
+      <td align="center" width="400px" style="padding: 30px;">
         <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150">
         <h4>Backend Development</h4>
         <p>
-          <img width="100%" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br><br>
-          <img width="100%" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/><br><br>
-          <img width="100%" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br><br>
-          <img width="100%" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+          <img width="300px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br><br>
+          <img width="300px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/><br><br>
+          <img width="300px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br><br>
+          <img width="300px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
         </p>
       </td>
-      <td align="center" width="33.33%" style="padding: 20px;">
+      <td align="center" width="400px" style="padding: 30px;">
         <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="150">
         <h4>Desktop Development</h4>
         <p>
-          <img width="100%" src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/><br><br>
+          <img width="300px" src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/><br><br>
           <br>
           <br>
           <br>
@@ -75,6 +75,7 @@
     </tr>
   </table>
 </div>
+
 
 ## 🛠️ Tools & Software
 
