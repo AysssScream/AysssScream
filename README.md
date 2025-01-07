@@ -172,4 +172,13 @@
 - 🔄 API Development
 - 🤖 Machine Learning Basics
 
+<div align="center">
+  <h2>🎯 Skills Progress</h2>
+  
+  ![Progress](https://progress-bar.dev/90/?title=HTML&width=500&color=babaca)
+  ![Progress](https://progress-bar.dev/85/?title=CSS&width=500&color=babaca)
+  ![Progress](https://progress-bar.dev/80/?title=JavaScript&width=500&color=babaca)
+  ![Progress](https://progress-bar.dev/75/?title=Python&width=500&color=babaca)
+  ![Progress](https://progress-bar.dev/70/?title=PHP&width=500&color=babaca)
+</div>
 
