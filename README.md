@@ -26,34 +26,47 @@
 ## 🚀 About Me
 
 <div align="center">
-  <kbd>
-    <br>
-    <img width="30" src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" />
-    <b>Currently a 4th Year BSIT Student at Jose Rizal University</b>
-    <br><br>
-  </kbd>
-  &nbsp;&nbsp;&nbsp;
-  <kbd>
-    <br>
-    <img width="30" src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8858-0fc56ee83c73.png" />
-    <b>Learning and growing in both frontend and backend development</b>
-    <br><br>
-  </kbd>
-  <br><br>
-  <kbd>
-    <br>
-    <img width="30" src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" />
-    <b>Goal: Creating solutions that are both powerful and beautiful</b>
-    <br><br>
-  </kbd>
-  &nbsp;&nbsp;&nbsp;
-  <kbd>
-    <br>
-    <img width="30" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429c-99c6-56a14f52e296.png" />
-    <b>Building my portfolio with academic and personal projects</b>
-    <br><br>
-  </kbd>
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="250">
+      </td>
+      <td width="50%" align="left">
+        <h3>👨‍🎓 Education</h3>
+        <b>4th Year BSIT Student</b><br>
+        Jose Rizal University<br><br>
+        <h3>🎯 Focus</h3>
+        Full Stack Development<br>
+        UI/UX Design<br>
+        Web Technologies
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  
+  <table border="0">
+    <tr>
+      <td align="center" width="25%">
+        <img width="50" src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8858-0fc56ee83c73.png" /><br>
+        Learning & Growing
+      </td>
+      <td align="center" width="25%">
+        <img width="50" src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" /><br>
+        Creating Solutions
+      </td>
+      <td align="center" width="25%">
+        <img width="50" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429c-99c6-56a14f52e296.png" /><br>
+        Building Portfolio
+      </td>
+      <td align="center" width="25%">
+        <img width="50" src="https://user-images.githubusercontent.com/74038190/216124356-9c7ee416-457b-4bec-a757-626b90d3f447.png" /><br>
+        Problem Solving
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ## 💻 Experience
 
