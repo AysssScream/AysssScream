@@ -172,6 +172,9 @@
 - 🔄 API Development
 - 🤖 Machine Learning Basics
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=header&animation=fadeIn" width="100%"/>
