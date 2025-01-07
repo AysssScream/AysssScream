@@ -3,6 +3,9 @@
   <br>
   <p style="font-size: 20px;">
     💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
+
+      <img src="https://komarev.com/ghpvc/?username=YourUsername&color=6F3DFF&style=for-the-badge&label=Profile+Views" alt="Visitors Badge"/>
+
   </p>
 </div>
   <div align="center">
