@@ -21,7 +21,7 @@
   
 <div align="center">
   <!-- Top Border -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=header&animation=fadeIn" width="100%"/>
 
   <!-- Introduction -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
@@ -30,25 +30,38 @@
     💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
   </p>
 
-  <!-- Animated Stats Container -->
+  <!-- Animated Stats Section -->
   <div align="center">
-    <!-- Stats Header -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=280&height=40&lines=Profile+Statistics" alt="Stats Label"/>
+    <!-- Decorative Separator -->
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
     
-    <!-- Profile Views with Animation -->
+    <!-- Stats Title -->
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=6F3DFF&height=40&section=header&text=Profile%20Statistics&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+    
+    <!-- Profile Views Counter -->
     <p>
-      <img src="https://komarev.com/ghpvc/?username=AysssScream&style=for-the-badge&color=6F3DFF&label=PROFILE+VIEWS" alt="Profile Views"/>
+      <img src="https://profile-counter.glitch.me/AysssScream/count.svg" 
+           style="background: linear-gradient(to right, #6F3DFF, #A78BFA); border-radius: 10px; padding: 10px;"/>
     </p>
     
-    <!-- Followers Count -->
+    <!-- Alternative Views Counter -->
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=AysssScream&style=for-the-badge&color=6F3DFF&label=TOTAL+PROFILE+VIEWS" alt="Profile Views"/>
+    </p>
+    
+    <!-- Followers Badge -->
     <p>
       <img src="https://img.shields.io/github/followers/AysssScream?style=for-the-badge&logo=github&color=6F3DFF&labelColor=2D2B55&label=GitHub+Followers" alt="Followers"/>
     </p>
+    
+    <!-- Decorative Separator -->
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   </div>
 
   <!-- Bottom Border -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
+
 
 
 ## 🚀 About Me
