@@ -172,50 +172,14 @@
 - 🔄 API Development
 - 🤖 Machine Learning Basics
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <p>Thanks for visiting! Feel free to reach out for collaborations or just a friendly chat 😊</p>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&height=100&lines=Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Let's+create+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
-  </p>
-</div>
 
 <div align="center">
-  <!-- Wave SVG -->
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-  
-  <!-- Thank You Section -->
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=435&lines=Thank+You+for+Visiting!+%F0%9F%8C%9F" alt="Thank You" />
-  </h2>
-  
-  <!-- Social Media Quick Links -->
-  <p>
-    <a href="your-linkedin-url">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:your.email@gmail.com">
-      <img src="https://img.shields.io/badge/Send_Me_A_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="your-portfolio-url">
-      <img src="https://img.shields.io/badge/Visit_My_Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
-    </a>
-  </p>
-
-<div align="center">
-  <!-- Decorative Top Border -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=header&animation=fadeIn" width="100%"/>
   
-  <!-- Thank You Message with Custom Background -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&height=100&lines=Thank+You+for+Visiting!+%F0%9F%8C%9F;Feel+free+to+connect+and+collaborate!+%F0%9F%A4%9D;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Thank You"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&height=100&lines=Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Let's+create+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
 
-
-
-
-  <!-- Animated Line Separator -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
   
-  <!-- Social Media Links -->
   <a href="your-linkedin-url">
     <img src="https://custom-icon-badges.demolab.com/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="220px"/>
   </a>
@@ -228,7 +192,6 @@
     <img src="https://custom-icon-badges.demolab.com/badge/-Visit_My_Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" width="220px"/>
   </a>
 
-  <!-- Animated Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
