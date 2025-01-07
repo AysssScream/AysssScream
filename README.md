@@ -180,8 +180,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=header&animation=fadeIn" width="100%"/>
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&height=100&lines=Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Let's+create+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
   
   <a href="your-linkedin-url">
     <img src="https://custom-icon-badges.demolab.com/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="220px"/>
