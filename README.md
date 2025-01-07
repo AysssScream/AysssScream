@@ -29,28 +29,36 @@
   <table border="0" width="100%">
     <tr>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=50&height=50&lines=🎓" />
+        <div style="font-size: 40px;">
+          🎓
+        </div>
         <br>
         <b>Education</b>
         <br>
         4th Year BSIT Student at Jose Rizal University
       </td>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=50&height=50&lines=🌱" />
+        <div style="font-size: 40px;">
+          🌱
+        </div>
         <br>
         <b>Learning Journey</b>
         <br>
         Frontend and Backend Development
       </td>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=50&height=50&lines=🎯" />
+        <div style="font-size: 40px;">
+          🎯
+        </div>
         <br>
         <b>Goal</b>
         <br>
         Creating Powerful & Beautiful Solutions
       </td>
       <td align="center" width="25%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=50&height=50&lines=💼" />
+        <div style="font-size: 40px;">
+          💼
+        </div>
         <br>
         <b>Portfolio</b>
         <br>
@@ -59,6 +67,7 @@
     </tr>
   </table>
 </div>
+
 
 ## 💻 Experience
 
