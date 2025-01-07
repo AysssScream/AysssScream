@@ -205,46 +205,9 @@
   <!-- Animated Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&height=100&lines=Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaborations+and+new+opportunities+%F0%9F%A4%9D" alt="Typing SVG" />
 
-  <!-- Fun Fact Generator -->
-  <details>
-    <summary>
-      <b>✨ Click here for a random fun fact about me!</b>
-    </summary>
-    <p>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=18&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&height=50&lines=I+love+solving+Rubik's+cubes!;I+can+speak+three+languages!;I'm+a+huge+fan+of+astronomy!;I+love+experimenting+with+new+technologies!" alt="Fun Facts" />
-    </p>
-  </details>
-
-  <!-- Profile Views -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile+Views&color=6F3DFF&style=for-the-badge" alt="Profile Views" />
-  </p>
-
-  <!-- Support Section -->
-  <p>
-    <a href="https://www.buymeacoffee.com/YourUsername">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-    </a>
-  </p>
-
   <!-- Final Message -->
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
   </p>
 
-  <!-- Custom Quote -->
-  <p>
-    <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-  </p>
-
-  <!-- GitHub Extra Stats -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourUsername&theme=tokyonight&hide_border=true" />
-  </p>
-
-  <!-- Last Updated -->
-  <p>
-    <i>Last updated: <b><!--TIMESTAMP:{"format": "MMMM YYYY"}--></b></i>
-  </p>
-</div>
 
