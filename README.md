@@ -32,8 +32,8 @@
     <!-- Stats Header -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=280&height=40&lines=Profile+Statistics" alt="Stats Label"/>
     
-    <!-- Profile Views Counter -->
-    <img src="https://komarev.com/ghpvc/?username=AysssScream&style=for-the-badge&color=6F3DFF&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <!-- Profile Views Counter - Using hits.seeyoufarm.com -->
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAysssScream&count_bg=%236F3DFF&title_bg=%232D2B55&icon=github.svg&icon_color=%23FFFFFF&title=PROFILE+VIEWS&edge_flat=true" alt="Profile Views"/>
     <br><br>
     <!-- GitHub Followers -->
     <img src="https://img.shields.io/github/followers/AysssScream?style=for-the-badge&logo=github&color=6F3DFF&labelColor=2D2B55&label=GitHub+Followers" alt="Followers"/>
@@ -45,6 +45,7 @@
   <!-- Bottom Border -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
+
 
 
 ## 🚀 About Me
