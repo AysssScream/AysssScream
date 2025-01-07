@@ -16,9 +16,6 @@
   <!-- Decorative Top Border -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=header&text=&fontSize=0" width="100%"/>
   
-  <!-- Name Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B;Welcome+to+my+Profile!+%E2%9C%A8&repeat=true&duration=3000" alt="Typing SVG" />
-  
   <!-- Subtitle with Icons -->
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%8E%93+BSIT+Student+at+Jose+Rizal+University" alt="Education"/>
