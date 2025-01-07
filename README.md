@@ -32,10 +32,6 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
         <br>
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-        <br><br>
-        • UI/UX Design<br>
-        • Responsive Design<br>
-        • Interactive Interfaces
       </td>
       <td align="center" width="33%">
         <h4>Backend Development</h4>
@@ -46,18 +42,10 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <br>
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <br><br>
-        • Database Management<br>
-        • API Development<br>
-        • System Architecture
       </td>
       <td align="center" width="33%">
         <h4>Desktop Development</h4>
         <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-        <br><br>
-        • Windows Applications<br>
-        • Software Development<br>
-        • Desktop UI Design
       </td>
     </tr>
   </table>
