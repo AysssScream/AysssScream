@@ -18,7 +18,8 @@
 - 🌱 Learning and growing in both frontend and backend development
 - 🎯 Goal: Creating solutions that are both powerful and beautiful
 - 💼 Building my portfolio with academic and personal projects
-
+  
+<div align="center">
   <table border="0" width="100%">
     <tr>
       <td align="center" width="25%" style="padding: 20px;">
@@ -141,6 +142,45 @@
     <img src="https://img.shields.io/badge/AccesiJobs-Job_Platform_for_PWDs-blue?style=for-the-badge"/>
   </a>
   <p>A specialized job search platform for Persons with Disabilities (PWDs)</p>
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100">
+        <br><br>
+        <a href="https://acjobsph.com">
+          <img src="https://img.shields.io/badge/AccesiJobs-Job_Platform_for_PWDs-6F3DFF?style=for-the-badge&logoColor=white"/>
+        </a>
+        <br><br>
+        <kbd>
+          <br>
+          <p><b>🎯 Project Overview</b></p>
+          <p>A specialized job search platform for Persons with Disabilities (PWDs)</p>
+          <br>
+          <p><b>🛠️ Tech Stack</b></p>
+          <p>
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+          </p>
+          <br>
+          <p><b>✨ Key Features</b></p>
+          <p>• PWD-friendly Interface</p>
+          <p>• Job Matching Algorithm</p>
+          <p>• Accessibility Features</p>
+          <br>
+        </kbd>
+        <br><br>
+        <a href="https://acjobsph.com">
+          <img src="https://img.shields.io/badge/View_Project-4c1d95?style=for-the-badge&logo=firefox&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
