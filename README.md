@@ -1,19 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
-  <br>
-  <p style="font-size: 20px;">
-    💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
-  </p>
-</div>
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-  <!-- Top Border -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
@@ -26,12 +11,8 @@
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
-
-  <!-- Bottom Border -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
-
-
 
 ## 🚀 About Me
 - 🎓 Currently a 4th Year BSIT Student at Jose Rizal University
