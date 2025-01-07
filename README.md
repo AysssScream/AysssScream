@@ -29,16 +29,15 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="250">
+        <!-- Student/Education Animation -->
+        <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d31-b994-6961353fa7f8.gif" width="250">
       </td>
       <td width="50%" align="left">
-        <h3>👨‍🎓 Education</h3>
+        <h3>👨‍🎓 Education Journey</h3>
         <b>4th Year BSIT Student</b><br>
-        Jose Rizal University<br><br>
-        <h3>🎯 Focus</h3>
-        Full Stack Development<br>
-        UI/UX Design<br>
-        Web Technologies
+        Jose Rizal University<br>
+        Major in Web Development<br>
+        Graduating Batch 2024
       </td>
     </tr>
   </table>
@@ -48,24 +47,33 @@
   <table border="0">
     <tr>
       <td align="center" width="25%">
-        <img width="50" src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8858-0fc56ee83c73.png" /><br>
-        Learning & Growing
+        <!-- Learning Animation -->
+        <img width="80" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /><br>
+        <b>Continuous Learning</b><br>
+        Full Stack Development
       </td>
       <td align="center" width="25%">
-        <img width="50" src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" /><br>
-        Creating Solutions
+        <!-- Development Animation -->
+        <img width="80" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" /><br>
+        <b>Creating Solutions</b><br>
+        Web Applications
       </td>
       <td align="center" width="25%">
-        <img width="50" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429c-99c6-56a14f52e296.png" /><br>
-        Building Portfolio
+        <!-- Project Animation -->
+        <img width="80" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /><br>
+        <b>Building Portfolio</b><br>
+        Project Development
       </td>
       <td align="center" width="25%">
-        <img width="50" src="https://user-images.githubusercontent.com/74038190/216124356-9c7ee416-457b-4bec-a757-626b90d3f447.png" /><br>
-        Problem Solving
+        <!-- Goal Animation -->
+        <img width="80" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" /><br>
+        <b>Setting Goals</b><br>
+        Career Growth
       </td>
     </tr>
   </table>
 </div>
+
 
 
 ## 💻 Experience
