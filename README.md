@@ -26,54 +26,43 @@
 ## 🚀 About Me
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td width="50%" align="center">
-        <!-- Student/Education Animation -->
-        <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d31-b994-6961353fa7f8.gif" width="250">
+      <td align="center" width="25%">
+        <!-- Education Animation -->
+        <img width="80" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d31-b994-6961353fa7f8.gif" />
+        <br><br>
+        <b>Education</b>
+        <br>
+        4th Year BSIT Student at Jose Rizal University
       </td>
-      <td width="50%" align="left">
-        <h3>👨‍🎓 Education Journey</h3>
-        <b>4th Year BSIT Student</b><br>
-        Jose Rizal University<br>
-        Major in Web Development<br>
-        Graduating Batch 2024
-      </td>
-    </tr>
-  </table>
-
-  <br>
-  
-  <table border="0">
-    <tr>
       <td align="center" width="25%">
         <!-- Learning Animation -->
-        <img width="80" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /><br>
-        <b>Continuous Learning</b><br>
-        Full Stack Development
-      </td>
-      <td align="center" width="25%">
-        <!-- Development Animation -->
-        <img width="80" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" /><br>
-        <b>Creating Solutions</b><br>
-        Web Applications
-      </td>
-      <td align="center" width="25%">
-        <!-- Project Animation -->
-        <img width="80" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /><br>
-        <b>Building Portfolio</b><br>
-        Project Development
+        <img width="80" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+        <br><br>
+        <b>Learning Journey</b>
+        <br>
+        Frontend and Backend Development
       </td>
       <td align="center" width="25%">
         <!-- Goal Animation -->
-        <img width="80" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" /><br>
-        <b>Setting Goals</b><br>
-        Career Growth
+        <img width="80" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+        <br><br>
+        <b>Goal</b>
+        <br>
+        Creating Powerful & Beautiful Solutions
+      </td>
+      <td align="center" width="25%">
+        <!-- Portfolio Animation -->
+        <img width="80" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+        <br><br>
+        <b>Portfolio</b>
+        <br>
+        Academic & Personal Projects
       </td>
     </tr>
   </table>
 </div>
-
 
 
 ## 💻 Experience
