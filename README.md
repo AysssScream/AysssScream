@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
   <br>
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
   <p style="font-size: 20px;">
     💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
   </p>
@@ -20,8 +23,36 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+## 🚀 About Me
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <kbd>
+    <br>
+    <img width="30" src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" />
+    <b>Currently a 4th Year BSIT Student at Jose Rizal University</b>
+    <br><br>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;
+  <kbd>
+    <br>
+    <img width="30" src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a96-8858-0fc56ee83c73.png" />
+    <b>Learning and growing in both frontend and backend development</b>
+    <br><br>
+  </kbd>
+  <br><br>
+  <kbd>
+    <br>
+    <img width="30" src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" />
+    <b>Goal: Creating solutions that are both powerful and beautiful</b>
+    <br><br>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;
+  <kbd>
+    <br>
+    <img width="30" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429c-99c6-56a14f52e296.png" />
+    <b>Building my portfolio with academic and personal projects</b>
+    <br><br>
+  </kbd>
 </div>
 
 ## 💻 Experience
