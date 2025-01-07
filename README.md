@@ -13,25 +13,17 @@
 </div>
 
 <div align="center">
-  <!-- Decorative Top Border -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
+  <br>
+  <p style="font-size: 20px;">
+    💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
+  </p>
   
-  <!-- Subtitle with Icons -->
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%8E%93+BSIT+Student+at+Jose+Rizal+University" alt="Education"/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AysssScream&label=Profile%20Views&color=6F3DFF&style=for-the-badge" alt="Profile Views"/>
   </p>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%92%BB+Full+Stack+Developer+with+a+Strong+Eye+in+Frontend" alt="Role"/>
-  </p>
+</div>
 
-  <!-- Visitor Counter with Enhanced Design -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&color=6F3DFF&style=for-the-badge&label=Profile+Views" alt="Visitors Badge"/>
-    &nbsp;
-    <img src="https://img.shields.io/github/followers/YourUsername?style=for-the-badge&color=6F3DFF&labelColor=222222" alt="Followers"/>
-    &nbsp;
-    <img src="https://img.shields.io/github/stars/YourUsername?style=for-the-badge&color=6F3DFF&labelColor=222222" alt="Stars"/>
-  </div>
 
 ## 🚀 About Me
 - 🎓 Currently a 4th Year BSIT Student at Jose Rizal University
