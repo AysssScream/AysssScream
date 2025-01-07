@@ -104,6 +104,79 @@
   </table>
 </div>
 
+## 💻 Experience
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" width="33.33%" style="padding: 20px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+        <h4>Frontend Development</h4>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+      </td>
+      <td align="center" width="33.33%" style="padding: 20px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+        <h4>Backend Development</h4>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+      </td>
+      <td align="center" width="33.33%" style="padding: 20px;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+        <h4>Desktop & Mobile Development</h4>
+        <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </div>
+
+  <h4>🤖 Data Science & Machine Learning</h4>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BERT-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GPT-00A67E?style=for-the-badge"/>
+
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </div>
+
+  <h4>🌟 Soft Skills</h4>
+  <img src="https://img.shields.io/badge/Adaptability-6F3DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Attention_to_Detail-6F3DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-6F3DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Continuous_Learning-6F3DFF?style=for-the-badge"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Creativity-6F3DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Critical_Thinking-6F3DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-6F3DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teamwork-6F3DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Time_Management-6F3DFF?style=for-the-badge"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+
 
 ## 🛠️ Tools & Software
 
