@@ -173,12 +173,11 @@
 - 🤖 Machine Learning Basics
 
 <div align="center">
-  <h2>🎯 Skills Progress</h2>
-  
-  ![Progress](https://progress-bar.dev/90/?title=HTML&width=500&color=babaca)
-  ![Progress](https://progress-bar.dev/85/?title=CSS&width=500&color=babaca)
-  ![Progress](https://progress-bar.dev/80/?title=JavaScript&width=500&color=babaca)
-  ![Progress](https://progress-bar.dev/75/?title=Python&width=500&color=babaca)
-  ![Progress](https://progress-bar.dev/70/?title=PHP&width=500&color=babaca)
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <p>Thanks for visiting! Feel free to reach out for collaborations or just a friendly chat 😊</p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&height=100&lines=Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Let's+create+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  </p>
 </div>
+
 
