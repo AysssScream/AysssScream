@@ -29,8 +29,10 @@
   <table border="0" width="100%">
     <tr>
       <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=👨‍🎓" />
-        <br><br>
+        <div style="background: linear-gradient(to right, #6F3DFF, #A682FF); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=50&height=50&lines=👨‍🎓" />
+        </div>
+        <br>
         <b>Education</b>
         <br><br>
         4th Year BSIT Student
@@ -39,8 +41,10 @@
         <br><br>
       </td>
       <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=📚" />
-        <br><br>
+        <div style="background: linear-gradient(to right, #6F3DFF, #A682FF); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=50&height=50&lines=📚" />
+        </div>
+        <br>
         <b>Learning Journey</b>
         <br><br>
         Frontend and Backend
@@ -49,8 +53,10 @@
         <br><br>
       </td>
       <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=🎯" />
-        <br><br>
+        <div style="background: linear-gradient(to right, #6F3DFF, #A682FF); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=50&height=50&lines=🎯" />
+        </div>
+        <br>
         <b>Goal</b>
         <br><br>
         Creating Powerful &
@@ -59,8 +65,10 @@
         <br><br>
       </td>
       <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=💼" />
-        <br><br>
+        <div style="background: linear-gradient(to right, #6F3DFF, #A682FF); border-radius: 50%; width: 80px; height: 80px; display: inline-flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=50&height=50&lines=💼" />
+        </div>
+        <br>
         <b>Portfolio</b>
         <br><br>
         Academic & Personal
