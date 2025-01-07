@@ -29,33 +29,29 @@
   <table border="0" width="100%">
     <tr>
       <td align="center" width="25%">
-        <!-- Education Animation -->
-        <img width="80" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d31-b994-6961353fa7f8.gif" />
-        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=50&height=50&lines=🎓" />
+        <br>
         <b>Education</b>
         <br>
         4th Year BSIT Student at Jose Rizal University
       </td>
       <td align="center" width="25%">
-        <!-- Learning Animation -->
-        <img width="80" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
-        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=50&height=50&lines=🌱" />
+        <br>
         <b>Learning Journey</b>
         <br>
         Frontend and Backend Development
       </td>
       <td align="center" width="25%">
-        <!-- Goal Animation -->
-        <img width="80" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=50&height=50&lines=🎯" />
+        <br>
         <b>Goal</b>
         <br>
         Creating Powerful & Beautiful Solutions
       </td>
       <td align="center" width="25%">
-        <!-- Portfolio Animation -->
-        <img width="80" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
-        <br><br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=50&height=50&lines=💼" />
+        <br>
         <b>Portfolio</b>
         <br>
         Academic & Personal Projects
@@ -63,7 +59,6 @@
     </tr>
   </table>
 </div>
-
 
 ## 💻 Experience
 
