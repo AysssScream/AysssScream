@@ -120,6 +120,7 @@
   <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
   <img src="https://img.shields.io/badge/BERT-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GPT-00A67E?style=for-the-badge"/>
+</div>
 
   <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
