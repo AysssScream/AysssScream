@@ -22,41 +22,72 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="200">
+<div style="display: flex;">
+  <!-- Left side content -->
+  <div style="flex: 1;">
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="300">
+  </div>
+  
+  <!-- Right side content -->
+  <div style="flex: 1;">
+    <div align="left" style="margin-left: 20px;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=21&pause=1000&color=00FFB2&center=false&vCenter=true&width=435&lines=A+passionate+Full+Stack+Developer;Building+the+future+one+line+at+a+time" alt="Typing SVG"/>
+      <br><br>
+      
+      <table border="0">
+        <tr>
+          <td>
+            <img width="20" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
+          </td>
+          <td>
+            Currently a 4th Year BSIT Student at Jose Rizal University
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img width="20" src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" />
+          </td>
+          <td>
+            Learning and growing in both frontend and backend development
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img width="20" src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" />
+          </td>
+          <td>
+            Goal: Creating solutions that are both powerful and beautiful
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img width="20" src="https://user-images.githubusercontent.com/74038190/216124642-d8dc5bd7-7c4b-4a4c-8c4a-1d5c35c15def.png" />
+          </td>
+          <td>
+            Building my portfolio with academic and personal projects
+          </td>
+        </tr>
+      </table>
+
+      <br>
+      
+      <!-- Add some fun stats -->
+      <div align="left">
+        <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen?style=for-the-badge&logo=web&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Location-Philippines-blue?style=for-the-badge&logo=google-maps&logoColor=white"/>
+      </div>
+      
+      <br>
+      
+      <!-- Add coding activity -->
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jezelgauiran&layout=compact&theme=radical" alt="Coding Activity"/>
+    </div>
+  </div>
 </div>
 
+<!-- Add a cool animation at the bottom -->
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img width="40" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
-        <br>
-        Currently a 4th Year BSIT Student<br>at Jose Rizal University
-      </td>
-      <td align="center" width="50%">
-        <img width="40" src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" />
-        <br>
-        Learning and growing in both<br>frontend and backend development
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="40" src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" />
-        <br>
-        Creating solutions that are<br>both powerful and beautiful
-      </td>
-      <td align="center">
-        <img width="40" src="https://user-images.githubusercontent.com/74038190/216124642-d8dc5bd7-7c4b-4a4c-8c4a-1d5c35c15def.png" />
-        <br>
-        Building my portfolio with<br>academic and personal projects
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 
