@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%93%B1;Full+Stack+Developer+%E2%9C%A8;Welcome+to+my+Profile!+%F0%9F%8C%9F&repeat=true&duration=3000" alt="Typing SVG" />
+
   💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
 </div>
 
