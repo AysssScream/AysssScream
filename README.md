@@ -207,7 +207,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=header&animation=fadeIn" width="100%"/>
   
   <!-- Thank You Message with Custom Background -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=70&lines=Thank+You+for+Visiting!+%F0%9F%8C%9F" alt="Thank You"/>
+<!-- Version 1 - Purple Theme -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=435&height=70&lines=Thank+You+for+Visiting!+%F0%9F%8C%9F" alt="Thank You"/>
+
+<!-- Version 2 - Dark Theme -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&height=70&lines=Thank+You+for+Visiting!+%F0%9F%8C%9F" alt="Thank You"/>
+
+<!-- Version 3 - With Background -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=6F3DFF&background=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=70&lines=Thank+You+for+Visiting!+%F0%9F%8C%9F" alt="Thank You"/>
+
+
 
   <!-- Animated Line Separator -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
