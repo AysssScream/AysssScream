@@ -204,41 +204,28 @@
 
 <div align="center">
   <!-- Decorative Top Border -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=header&animation=fadeIn" width="100%"/>
   
-  <!-- Thank You Message -->
-  <div style="background: linear-gradient(to right, #6F3DFF, #A78BFA); padding: 20px; border-radius: 15px; margin: 20px; box-shadow: 0 4px 15px rgba(111, 61, 255, 0.2);">
-    <h2>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Thank+You+for+Visiting!+%F0%9F%8C%9F" alt="Thank You" />
-    </h2>
-  </div>
-  
-  <!-- Social Media Links with Hover Effect -->
-  <p style="margin: 30px 0;">
-    <a href="your-linkedin-url" style="margin: 0 10px; text-decoration: none; transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-    </a>
-    <a href="mailto:your.email@gmail.com" style="margin: 0 10px; text-decoration: none; transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/Send_Me_A_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
-    </a>
-    <a href="your-portfolio-url" style="margin: 0 10px; text-decoration: none; transition: transform 0.3s ease;">
-      <img src="https://img.shields.io/badge/Visit_My_Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139"/>
-    </a>
-  </p>
+  <!-- Thank You Message with Custom Background -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=70&lines=Thank+You+for+Visiting!+%F0%9F%8C%9F" alt="Thank You"/>
 
-  <!-- Decorative Bottom Border -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=footer&text=&fontSize=0" width="100%"/>
+  <!-- Animated Line Separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  
+  <!-- Social Media Links -->
+  <a href="your-linkedin-url">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="220px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Send_Me_A_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="220px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="your-portfolio-url">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Visit_My_Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" width="220px"/>
+  </a>
+
+  <!-- Animated Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
-<style>
-  /* Hover Effects */
-  a:hover {
-    transform: translateY(-5px);
-    filter: brightness(110%);
-  }
-
-  /* Smooth Transitions */
-  * {
-    transition: all 0.3s ease;
-  }
-</style>
