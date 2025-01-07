@@ -125,24 +125,6 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
 
-  <h4>🌟 Soft Skills</h4>
-  <img src="https://img.shields.io/badge/Adaptability-6F3DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Attention_to_Detail-6F3DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Communication-6F3DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Continuous_Learning-6F3DFF?style=for-the-badge"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Creativity-6F3DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Critical_Thinking-6F3DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-6F3DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Teamwork-6F3DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Time_Management-6F3DFF?style=for-the-badge"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-
 
 ## 🛠️ Tools & Software
 
