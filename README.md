@@ -37,6 +37,28 @@
   <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
+## 🌟 Featured Projects
+<div align="center">
+  <a href="https://acjobsph.com">
+    <img src="https://img.shields.io/badge/AccesiJobs-Job_Platform_for_PWDs-blue?style=for-the-badge"/>
+  </a>
+  <p>A specialized job search platform for Persons with Disabilities (PWDs)</p>
+</div>
+
+## 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jezelgauiran&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jezelgauiran&layout=compact&theme=radical"/>
+</div>
+
+## 🎯 Current Focus
+- 📱 Exploring Mobile Development
+- 🎨 Enhancing UI/UX Design Skills
+- 🔄 Learning New Technologies
+- 📊 Data Structure and Algorithms
 
 
