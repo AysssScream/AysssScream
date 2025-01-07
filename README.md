@@ -29,7 +29,7 @@
   <table border="0" width="100%">
     <tr>
       <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d31-b994-6961353fa7f8.gif" width="100">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=👨‍🎓" />
         <br><br>
         <b>Education</b>
         <br><br>
@@ -39,7 +39,7 @@
         <br><br>
       </td>
       <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=📚" />
         <br><br>
         <b>Learning Journey</b>
         <br><br>
@@ -49,7 +49,7 @@
         <br><br>
       </td>
       <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=🎯" />
         <br><br>
         <b>Goal</b>
         <br><br>
@@ -59,7 +59,7 @@
         <br><br>
       </td>
       <td align="center" width="25%" style="padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=💼" />
         <br><br>
         <b>Portfolio</b>
         <br><br>
