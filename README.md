@@ -14,6 +14,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 ## 🚀 About Me
 - 🎓 Currently a 4th Year BSIT Student at Jose Rizal University
 - 🌱 Learning and growing in both frontend and backend development
