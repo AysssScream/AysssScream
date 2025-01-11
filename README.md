@@ -14,6 +14,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
+## 🌐 Portfolio Preview
+<div align="center">
+  <a href="https://aysssscream.github.io/My-Portfolio/" target="_blank">
+    <kbd><img src="https://github.com/user-attachments/assets/243215eb-571a-4fe8-91c9-d019096ccd1c" width="100%" alt="Portfolio Preview"/></kbd>
+  </a>
+  <br><br>
+  <a href="https://aysssscream.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6F3DFF?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
+</div>
+
 ## 🚀 About Me
 - 🎓 Currently a 4th Year BSIT Student at Jose Rizal University
 - 🌱 Learning and growing in both frontend and backend development
