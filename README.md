@@ -1,209 +1,173 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=header&animation=fadeIn" width="100%"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
-  <br>
-  <p style="font-size: 20px;">
-    💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header" width="100%"/>
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B;Full+Stack+Developer;BSIT+Graduate" alt="Typing SVG" />
+  </h1>
+  
+  <p align="center">
+    <strong>🎓 BSIT Graduate from Jose Rizal University</strong><br>
+    <em>Full Stack Developer with a passion for creating beautiful, functional solutions</em>
   </p>
-</div>
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
+  
+  <br>
+  
+  <a href="https://aysssscream.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-6366F1?style=for-the-badge&logoColor=white"/>
+  </a>
+  
 </div>
 
-## 🌐 Portfolio Preview
-<div align="center">
-  <a href="https://aysssscream.github.io/My-Portfolio/" target="_blank">
-    <kbd><img src="https://github.com/user-attachments/assets/243215eb-571a-4fe8-91c9-d019096ccd1c" width="100%" alt="Portfolio Preview"/></kbd>
-  </a>
-  <br><br>
-  <a href="https://aysssscream.github.io/My-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6F3DFF?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-  </a>
-</div>
+---
 
 ## 🚀 About Me
-- 🎓 Currently a 4th Year BSIT Student at Jose Rizal University
-- 🌱 Learning and growing in both frontend and backend development
-- 🎯 Goal: Creating solutions that are both powerful and beautiful
-- 💼 Building my portfolio with academic and personal projects
-  
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center" width="25%" style="padding: 20px;">
-        <kbd><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=👨‍🎓" /></kbd>
-        <br><br>
-        <b>Education</b>
-        <br><br>
-        4th Year BSIT Student
-        <br>
-        Jose Rizal University
-        <br><br>
-      </td>
-      <td align="center" width="25%" style="padding: 20px;">
-        <kbd><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=📚" /></kbd>
-        <br><br>
-        <b>Learning Journey</b>
-        <br><br>
-        Frontend and Backend
-        <br>
-        Development
-        <br><br>
-      </td>
-      <td align="center" width="25%" style="padding: 20px;">
-        <kbd><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=🎯" /></kbd>
-        <br><br>
-        <b>Goal</b>
-        <br><br>
-        Creating Powerful &
-        <br>
-        Beautiful Solutions
-        <br><br>
-      </td>
-      <td align="center" width="25%" style="padding: 20px;">
-        <kbd><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=💼" /></kbd>
-        <br><br>
-        <b>Portfolio</b>
-        <br><br>
-        Academic & Personal
-        <br>
-        Projects
-        <br><br>
-      </td>
-    </tr>
-  </table>
-</div>
 
+<table>
+  <tr>
+    <td width="50%">
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+### 👨‍🎓 Background & Goals
+- 🎓 **BSIT Graduate** from Jose Rizal University
+- 💼 **Full Stack Developer** with expertise in modern web technologies
+- 🌱 Continuously learning and adapting to new technologies
+- 🎯 **Mission**: Creating solutions that are both powerful and beautiful
+- 🚀 Ready to contribute to innovative projects and teams
 
-## 💻 Experience
+    </td>
+    <td width="50%">
 
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center" width="33.33%" style="padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-        <h4>Frontend Development</h4>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-      </td>
-      <td align="center" width="33.33%" style="padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-        <h4>Backend Development</h4>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-      </td>
-      <td align="center" width="33.33%" style="padding: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-        <h4>Desktop & Mobile Development</h4>
-        <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
+### 🎯 Current Focus
+- 📱 **Mobile Development** with Flutter
+- 🎨 **UI/UX Design** enhancement
+- 🔄 **API Development** & integration
+- 🤖 **Machine Learning** applications
+- 💼 **Career Growth** in software development
 
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </div>
+    </td>
+  </tr>
+</table>
 
-  <h4>🤖 Data Science & Machine Learning</h4>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BERT-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GPT-00A67E?style=for-the-badge"/>
-</div>
+---
 
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </div>
+## 💻 Tech Stack
 
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 🛠️ Tools & Software
+### ⚙️ Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<div align="center">
-  <h4>👨‍💻 Development Tools</h4>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-  <h4>🎨 Design Tools</h4>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_Animate-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+### 📱 Mobile & Desktop
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=flat-square&logo=.net&logoColor=white)
 
-  <h4>📊 Office & Productivity</h4>
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+### 🤖 Data Science & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-  <h4>🎬 Media & Content Creation</h4>
-  <img src="https://img.shields.io/badge/Filmora-000000?style=for-the-badge&logo=wondershare&logoColor=white"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+## 🛠️ Tools & Environment
+
+<table>
+  <tr>
+    <td width="33%">
+
+### 👨‍💻 Development
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+
+    </td>
+    <td width="33%">
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+
+    </td>
+    <td width="33%">
+
+### 📊 Productivity
+![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![Filmora](https://img.shields.io/badge/Filmora-000000?style=flat-square&logo=wondershare&logoColor=white)
+
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🌟 Featured Projects
-<div align="center">
-  <a href="https://acjobsph.com">
-    <img src="https://img.shields.io/badge/AccesiJobs-Job_Platform_for_PWDs-blue?style=for-the-badge"/>
-  </a>
-  <p>A specialized job search platform for Persons with Disabilities (PWDs)</p>
-</div>
-
-
-## 🎯 Current Focus
-- 📱 Exploring Mobile Development
-- 🎨 Enhancing UI/UX Design Skills
-- 🔄 API Development
-- 🤖 Machine Learning Basics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=header&animation=fadeIn" width="100%"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&height=100&lines=Happy+Coding!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Let's+create+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
-  
-  <!-- Social Links in One Line -->
-  <p align="center">
-    <a href="your-linkedin-url"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-    <a href="mailto:your.email@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-    <a href="your-portfolio-url"><img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/></a>
-  </p>
+  ### 🔗 [AccesiJobs - Job Platform for PWDs](https://acjobsph.com)
+  *A specialized job search platform designed for Persons with Disabilities*
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=120&section=footer&animation=fadeIn" width="100%"/>
+  [![Visit Project](https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge)](https://acjobsph.com)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aysssscream&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysssscream&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysssscream&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 Achievements & Education
+
+<div align="center">
+  
+  ### 🎓 Education
+  **Bachelor of Science in Information Technology**  
+  *Jose Rizal University* | **Graduated 2024**
+  
+  ### 💼 Professional Status
+  **Full Stack Developer** | Ready for new opportunities
+  
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://aysssscream.github.io/My-Portfolio/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+new+opportunities!+%F0%9F%92%BC" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" width="100%"/>
 </div>
