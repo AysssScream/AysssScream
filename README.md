@@ -166,8 +166,6 @@
     </a>
     <p>A specialized job search platform for Persons with Disabilities (PWDs)</p>
 </div>
-
-- 🔄 API Development
 - 🤖 Machine Learning Basics
 
 <div align="center">
