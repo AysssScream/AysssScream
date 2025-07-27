@@ -167,7 +167,6 @@
     <p>A specialized job search platform for Persons with Disabilities (PWDs)</p>
 </div>
 
-## 🎯 Current Focus
 - 📱 Exploring Mobile Development
 - 🎨 Enhancing UI/UX Design Skills
 - 🔄 API Development
