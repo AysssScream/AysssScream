@@ -167,7 +167,6 @@
     <p>A specialized job search platform for Persons with Disabilities (PWDs)</p>
 </div>
 
-- 🎨 Enhancing UI/UX Design Skills
 - 🔄 API Development
 - 🤖 Machine Learning Basics
 
