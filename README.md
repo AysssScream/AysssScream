@@ -37,7 +37,7 @@
                 <br><br>
                 <b>Education</b>
                 <br><br>
-                4th Year BSIT Student
+                Bachelor of Science in Information Technology, Graduated
                 <br>
                 Jose Rizal University
                 <br><br>
