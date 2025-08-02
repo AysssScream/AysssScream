@@ -12,6 +12,7 @@
     </div>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
+
 ## 🌐 Portfolio Preview
 <div align="center">
     <a href="https://aysssscream.github.io/My-Portfolio/" target="_blank">
