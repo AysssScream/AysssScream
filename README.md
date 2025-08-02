@@ -4,7 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
         <br>
         <p style="font-size: 20px;">
-            💻 BSIT Student at Jose Rizal University | Full Stack Developer with a Strong Eye in Frontend
+        💻 BSIT Graduate from Jose Rizal University | Full Stack Developer with a Strong Eye for Frontend
         </p>
     </div>
     <div align="center">
