@@ -1,26 +1,31 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&animation=fadeIn" width="100%"/>    
-    <div style="padding: 20px 0;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=45&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Frontend+Enthusiast+%E2%9C%A8&repeat=true&duration=4000" alt="Typing SVG" />       
-        <div style="margin: 30px 0; padding: 0 20px;">
-            <h3 style="color: #6F3DFF; margin-bottom: 15px;">
-                🎓 BSIT Graduate | Jose Rizal University
-            </h3>
-            <p style="font-size: 18px; color: #666; max-width: 600px; margin: 0 auto; line-height: 1.6;">
-                Passionate Full Stack Developer with a keen eye for creating beautiful, 
-                user-centric frontend experiences and robust backend solutions.
-            </p>
-        </div>      
-        <div style="margin: 25px 0;">
-            <img src="https://img.shields.io/badge/Frontend-Expert-6F3DFF?style=for-the-badge&logo=react" alt="Frontend"/>
-            <img src="https://img.shields.io/badge/Backend-Proficient-6F3DFF?style=for-the-badge&logo=node.js" alt="Backend"/>
-            <img src="https://img.shields.io/badge/UI%2FUX-Focused-6F3DFF?style=for-the-badge&logo=figma" alt="UI/UX"/>
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,9,12,20&height=150&section=header&animation=twinkling" width="100%"/> 
+    <div style="background: linear-gradient(135deg, rgba(233,30,99,0.1), rgba(194,24,91,0.05)); padding: 50px 20px; margin: 20px 0; border-radius: 20px;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=48&pause=800&color=E91E63&center=true&vCenter=true&width=700&lines=%F0%9F%8C%B8+Jezebel;Full+Stack+Developer;Frontend+%E2%9D%A4%EF%B8%8F+Backend&repeat=true&duration=2500" alt="Typing SVG" />
+        <div style="margin: 40px 0;">
+            <img src="https://img.shields.io/badge/%F0%9F%8E%93-BSIT%20Graduate-FF69B4?style=flat-square&labelColor=E91E63" alt="Education"/>
+            <br><br>
+            <img src="https://img.shields.io/badge/%F0%9F%8F%AB-Jose%20Rizal%20University-FF1493?style=flat-square&labelColor=C2185B" alt="University"/>
         </div>
-    </div>   
-    <div style="margin: 20px 0;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" style="max-width: 100%; border-radius: 10px;"/>
+        <p style="font-size: 18px; color: #555; max-width: 400px; margin: 30px auto; line-height: 1.8; font-family: 'Segoe UI', sans-serif;">
+            Creating digital magic with code ✨<br>
+            Simple. Clean. Functional.
+        </p>
+        <div style="margin: 35px 0;">
+            <img src="https://img.shields.io/badge/Frontend-💖-FF69B4?style=for-the-badge&logo=heart&logoColor=white" alt="Frontend Love"/>
+            <img src="https://img.shields.io/badge/Backend-🚀-E91E63?style=for-the-badge&logo=rocket&logoColor=white" alt="Backend Power"/>
+        </div>
     </div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/>
+    <div style="position: relative; margin: 30px 0;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480" style="border-radius: 25px; box-shadow: 0 15px 35px rgba(233,30,99,0.3); transform: scale(1.02);"/>
+        <div style="position: absolute; top: -10px; right: -10px;">
+            <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="60"/>
+        </div>
+    </div>
+    <div style="margin: 40px 0;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=20&pause=2000&color=C2185B&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing!+%F0%9F%92%AB;Always+learning%2C+always+growing+%F0%9F%8C%B1&repeat=true&duration=3000" alt="Motivation" />
+    </div>
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,9,12,20&height=150&section=footer&animation=twinkling" width="100%"/>
 </div>
 
 ## 🌐 Portfolio Preview
