@@ -1,16 +1,26 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=header&animation=fadeIn" width="100%"/>
-    <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&pause=1000&color=6F3DFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B&repeat=true&duration=3000" alt="Typing SVG" />
-        <br>
-        <p style="font-size: 20px;">
-        💻 BSIT Graduate from Jose Rizal University | Full Stack Developer with a Strong Eye for Frontend
-        </p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&animation=fadeIn" width="100%"/>    
+    <div style="padding: 20px 0;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=45&pause=1000&color=6F3DFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jezebel+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Frontend+Enthusiast+%E2%9C%A8&repeat=true&duration=4000" alt="Typing SVG" />       
+        <div style="margin: 30px 0; padding: 0 20px;">
+            <h3 style="color: #6F3DFF; margin-bottom: 15px;">
+                🎓 BSIT Graduate | Jose Rizal University
+            </h3>
+            <p style="font-size: 18px; color: #666; max-width: 600px; margin: 0 auto; line-height: 1.6;">
+                Passionate Full Stack Developer with a keen eye for creating beautiful, 
+                user-centric frontend experiences and robust backend solutions.
+            </p>
+        </div>      
+        <div style="margin: 25px 0;">
+            <img src="https://img.shields.io/badge/Frontend-Expert-6F3DFF?style=for-the-badge&logo=react" alt="Frontend"/>
+            <img src="https://img.shields.io/badge/Backend-Proficient-6F3DFF?style=for-the-badge&logo=node.js" alt="Backend"/>
+            <img src="https://img.shields.io/badge/UI%2FUX-Focused-6F3DFF?style=for-the-badge&logo=figma" alt="UI/UX"/>
+        </div>
+    </div>   
+    <div style="margin: 20px 0;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" style="max-width: 100%; border-radius: 10px;"/>
     </div>
-    <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-    </div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=6F3DFF&height=100&section=footer&animation=fadeIn" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
 ## 🌐 Portfolio Preview
