@@ -1,99 +1,115 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,9,12,20&height=150&section=header&animation=twinkling" width="100%"/>
-    <div style="background:linear-gradient(135deg,rgba(233,30,99,0.1),rgba(194,24,91,0.05));padding:50px 20px;margin:20px 0;border-radius:20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=48&pause=800&color=E91E63&center=true&vCenter=true&width=700&lines=Hi!+I'm+Jezebel+Mae+%F0%9F%8C%B8;Call+me+Jez+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB&repeat=true&duration=2500" alt="Typing SVG"/>
-        <div style="margin:35px 0;padding:20px;background:rgba(255,105,180,0.1);border-radius:15px;">
-            <p style="font-size:18px;color:#555;max-width:450px;margin:0 auto;line-height:1.8;font-family:Poppins,sans-serif;">
-                Hello there! I'm Jezebel, but you can call me Jez 😊<br>
-                I love creating websites that look good and work well.<br>
-                I enjoy solving problems with code and learning new things every day!
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=E91E63&height=140&section=header&animation=scaleIn" width="100%"/>
+    <div style="background:radial-gradient(circle,rgba(255,105,180,0.1) 0%,rgba(233,30,99,0.05) 100%);padding:60px 30px;margin:25px 0;border-radius:30px;border:2px solid rgba(233,30,99,0.1);">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&pause=1000&color=E91E63&center=true&vCenter=true&width=700&lines=Hello!+I'm+Jezebel+%F0%9F%91%8B%F0%9F%8F%BB;Friends+call+me+Jez+%F0%9F%8C%B8;Nice+Meeting+You!!+%F0%9F%92%BB&repeat=true&duration=2800" alt="Intro"/>
+        <div style="margin:35px 0;padding:20px;background:rgba(255,182,193,0.2);border-radius:15px;">
+            <p style="font-size:17px;color:#666;max-width:420px;margin:0 auto;font-family:Poppins,sans-serif;font-weight:300;line-height:1.6;">
+                Welcome to my world of code! 🌟<br>
+                I'm a Full-stack developer who loves making the web a more beautiful place.<br>
+                When I'm not coding, I'm probably learning something new or planning my next project!
             </p>
         </div>
-        <div style="margin:40px 0;">
-            <img src="https://img.shields.io/badge/%F0%9F%8E%93-BSIT%20Graduate-FF69B4?style=flat-square&labelColor=E91E63" alt="Education"/>
-            <br><br>
-            <img src="https://img.shields.io/badge/%F0%9F%8F%AB-Jose%20Rizal%20University-FF1493?style=flat-square&labelColor=C2185B" alt="University"/>
+        <div style="display:flex;justify-content:center;align-items:center;margin:35px 0;flex-wrap:wrap;gap:15px;">
+            <img src="https://img.shields.io/badge/🎓_BSIT-Graduate-FF1493?style=plastic&labelColor=E91E63" alt="Degree"/>
+            <img src="https://img.shields.io/badge/🏫_JRU-Alumni-FF69B4?style=plastic&labelColor=C2185B" alt="School"/>
+            <img src="https://img.shields.io/badge/🇵🇭_Philippines-Home-FF69B4?style=plastic&labelColor=E91E63" alt="Location"/>
         </div>
-        <div style="margin:35px 0;">
-            <img src="https://img.shields.io/badge/Frontend-💖-FF69B4?style=for-the-badge&logo=heart&logoColor=white" alt="Frontend Love"/>
-            <img src="https://img.shields.io/badge/Backend-🚀-E91E63?style=for-the-badge&logo=rocket&logoColor=white" alt="Backend Power"/>
-        </div>
-    </div>
-    <div style="position:relative;margin:30px 0;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480" style="border-radius:25px;box-shadow:0 15px 35px rgba(233,30,99,0.3);transform:scale(1.02);"/>
-        <div style="position:absolute;top:-10px;right:-10px;">
-            <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="60"/>
+        <div style="margin:30px 0;">
+            <img src="https://img.shields.io/badge/💖_Frontend-Passion-FF69B4?style=for-the-badge" alt="Frontend"/>
+            <img src="https://img.shields.io/badge/⚡_Backend-Skills-E91E63?style=for-the-badge" alt="Backend"/>
         </div>
     </div>
-    <div style="margin:40px 0;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=20&pause=2000&color=C2185B&center=true&vCenter=true&width=600&lines=Nice+to+meet+you!+%F0%9F%92%AB;Let's+create+something+awesome+together!+%E2%9C%A8;Always+excited+to+learn+and+grow+%F0%9F%8C%B1&repeat=true&duration=3000" alt="Motivation"/>
+    <div style="position:relative;margin:35px 0;">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" style="border-radius:20px;box-shadow:0 20px 40px rgba(233,30,99,0.25);"/>
     </div>
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,9,12,20&height=150&section=footer&animation=twinkling" width="100%"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=3000&color=FF1493&center=true&vCenter=true&width=650&lines=Ready+to+collaborate+on+something+amazing%3F+%E2%9C%A8;Let's+turn+your+ideas+into+reality!+%F0%9F%92%AB;Drop+me+a+message+anytime!+%F0%9F%8C%B8&repeat=true&duration=4000" alt="CTA"/>
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=E91E63&height=140&section=footer&animation=scaleIn" width="100%"/>
 </div>
 
-## 🌐 Portfolio Preview
+## 🌸 Portfolio Preview
 <div align="center">
     <a href="https://aysssscream.github.io/My-Portfolio/" target="_blank">
         <kbd><img src="https://github.com/user-attachments/assets/243215eb-571a-4fe8-91c9-d019096ccd1c" width="100%" alt="Portfolio Preview"/></kbd>
     </a>
     <br><br>
     <a href="https://aysssscream.github.io/My-Portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit_My_Portfolio-6F3DFF?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Visit_My_Portfolio-E91E63?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
     </a>
 </div>
 
-## 🚀 About Me
-- 🌱 Learning and growing in both frontend and backend development
-- 🎯 Goal: Creating solutions that are both powerful and beautiful
-- 💼 Building my portfolio with academic and personal projects
+## 🌸 About Me
 
 <div align="center">
-    <table border="0" width="100%">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=E91E63&center=true&vCenter=true&width=500&lines=Get+to+Know+Me+Better!+%F0%9F%92%96;Here's+My+Story+%F0%9F%8C%9F&repeat=true&duration=3000" alt="About Me Header"/>
+    <table border="0" cellspacing="0" cellpadding="10" style="margin:20px 0;">
         <tr>
-            <td align="center" width="25%" style="padding: 20px;">
-                <kbd><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=👨‍🎓" /></kbd>
-                <br><br>
-                <b>Education</b>
-                <br><br>
-                Bachelor of Science in Information Technology, Graduated
-                <br>
-                Jose Rizal University
-                <br><br>
+            <td style="background:rgba(255,182,193,0.2);padding:20px;border-radius:15px;border-left:5px solid #FF69B4;margin:10px 0;">
+                <span style="font-family:Poppins,sans-serif;color:#E91E63;font-size:18px;font-weight:500;">🌱 Learning and growing in both frontend and backend development</span>
             </td>
-            <td align="center" width="25%" style="padding: 20px;">
-                <kbd><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=📚" /></kbd>
-                <br><br>
-                <b>Learning Journey</b>
-                <br><br>
-                Frontend and Backend
-                <br>
-                Development
-                <br><br>
+        </tr>
+        <tr>
+            <td style="background:rgba(255,105,180,0.2);padding:20px;border-radius:15px;border-left:5px solid #FF1493;margin:10px 0;">
+                <span style="font-family:Poppins,sans-serif;color:#FF1493;font-size:18px;font-weight:500;">🎯 Goal: Creating solutions that are both powerful and beautiful</span>
             </td>
-            <td align="center" width="25%" style="padding: 20px;">
-                <kbd><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=🎯" /></kbd>
-                <br><br>
-                <b>Goal</b>
-                <br><br>
-                Creating Powerful &
-                <br>
-                Beautiful Solutions
-                <br><br>
-            </td>
-            <td align="center" width="25%" style="padding: 20px;">
-                <kbd><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=1000&color=6F3DFF&center=true&vCenter=true&repeat=false&width=60&height=60&lines=💼" /></kbd>
-                <br><br>
-                <b>Portfolio</b>
-                <br><br>
-                Academic & Personal
-                <br>
-                Projects
-                <br><br>
+        </tr>
+        <tr>
+            <td style="background:rgba(194,24,91,0.2);padding:20px;border-radius:15px;border-left:5px solid #C2185B;margin:10px 0;">
+                <span style="font-family:Poppins,sans-serif;color:#C2185B;font-size:18px;font-weight:500;">💼 Building my portfolio with academic and personal projects</span>
             </td>
         </tr>
     </table>
 </div>
 
+<br>
+
+<div align="center">
+    <table border="0" cellspacing="25">
+        <tr>
+            <td align="center" bgcolor="#FFE4E1" style="padding:35px 25px;border-radius:25px;border:4px solid #E91E63;width:220px;box-shadow:0 5px 15px rgba(233,30,99,0.2);">
+                <h1 style="color:#E91E63;margin:0;font-size:55px;">🎓</h1>
+                <h3 style="font-family:Poppins,sans-serif;color:#E91E63;margin:15px 0;font-size:22px;font-weight:700;">Education</h3>
+                <hr style="border:1px solid #E91E63;width:50%;margin:10px auto;">
+                <p style="font-family:Poppins,sans-serif;color:#8B008B;font-size:15px;margin:10px 0;line-height:1.5;">
+                    <b style="color:#E91E63;">BSIT Graduate</b><br>
+                    Jose Rizal University<br><br>
+                    <span style="color:#E91E63;font-weight:600;">Ready for Tech! 🚀</span>
+                </p>
+            </td>
+            <td align="center" bgcolor="#FFF0F5" style="padding:35px 25px;border-radius:25px;border:4px solid #FF1493;width:220px;box-shadow:0 5px 15px rgba(255,20,147,0.2);">
+                <h1 style="color:#FF1493;margin:0;font-size:55px;">📚</h1>
+                <h3 style="font-family:Poppins,sans-serif;color:#FF1493;margin:15px 0;font-size:22px;font-weight:700;">Learning</h3>
+                <hr style="border:1px solid #FF1493;width:50%;margin:10px auto;">
+                <p style="font-family:Poppins,sans-serif;color:#8B008B;font-size:15px;margin:10px 0;line-height:1.5;">
+                    <b style="color:#FF1493;">Frontend & Backend</b><br>
+                    Development<br><br>
+                    <span style="color:#FF1493;font-weight:600;">Always Growing! 🌱</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" bgcolor="#FFCCCB" style="padding:35px 25px;border-radius:25px;border:4px solid #FF69B4;width:220px;box-shadow:0 5px 15px rgba(255,105,180,0.2);">
+                <h1 style="color:#FF69B4;margin:0;font-size:55px;">🎯</h1>
+                <h3 style="font-family:Poppins,sans-serif;color:#FF69B4;margin:15px 0;font-size:22px;font-weight:700;">Goal</h3>
+                <hr style="border:1px solid #FF69B4;width:50%;margin:10px auto;">
+                <p style="font-family:Poppins,sans-serif;color:#8B008B;font-size:15px;margin:10px 0;line-height:1.5;">
+                    <b style="color:#FF69B4;">Powerful & Beautiful</b><br>
+                    Solutions<br><br>
+                    <span style="color:#FF69B4;font-weight:600;">Dream Big! ✨</span>
+                </p>
+            </td>
+            <td align="center" bgcolor="#F8BBD9" style="padding:35px 25px;border-radius:25px;border:4px solid #C2185B;width:220px;box-shadow:0 5px 15px rgba(194,24,91,0.2);">
+                <h1 style="color:#C2185B;margin:0;font-size:55px;">💼</h1>
+                <h3 style="font-family:Poppins,sans-serif;color:#C2185B;margin:15px 0;font-size:22px;font-weight:700;">Portfolio</h3>
+                <hr style="border:1px solid #C2185B;width:50%;margin:10px auto;">
+                <p style="font-family:Poppins,sans-serif;color:#8B008B;font-size:15px;margin:10px 0;line-height:1.5;">
+                    <b style="color:#C2185B;">Academic & Personal</b><br>
+                    Projects<br><br>
+                    <span style="color:#C2185B;font-weight:600;">Building Future! 🌸</span>
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
