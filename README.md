@@ -206,12 +206,7 @@
 </div>
 
 <div align="center">
-    <!-- Header Shark Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=150&section=header&text=Hello%20World!&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-    <!-- Main Title with Poppins -->
-    <h1 style="color: #E91E63; font-family: 'Poppins', sans-serif; font-weight: 700; margin: 40px 0; font-size: 2.8em;">
-        ✨ Passionate Developer & Problem Solver ✨
-    </h1>
     <!-- Decorative Element -->
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" style="margin: 30px 0;">
     <!-- Contact Section -->
@@ -228,6 +223,5 @@
     </div>
     <!-- Beautiful Divider -->
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" style="margin: 30px 0;">
-    <!-- Footer Shark Wave -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=150&section=footer" width="100%"/>
 </div>
