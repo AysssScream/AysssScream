@@ -206,23 +206,28 @@
 </div>
 
 <div align="center">
-    <!-- Header Wave -->
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=F8BBD9&height=150&section=header&text=Hello%20World!&fontSize=50&fontColor=C2185B&animation=fadeIn" width="100%"/>
-    <!-- Main Title -->
-    <h1 style="color: #E91E63; font-family: 'Arial', sans-serif; margin: 30px 0;">
+    <!-- Header Shark Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=150&section=header&text=Hello%20World!&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+    <!-- Main Title with Poppins -->
+    <h1 style="color: #E91E63; font-family: 'Poppins', sans-serif; font-weight: 700; margin: 40px 0; font-size: 2.8em;">
         ✨ Passionate Developer & Problem Solver ✨
     </h1>
-    <!-- Animated Text -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&pause=1000&color=AD1457&center=true&vCenter=true&width=600&height=80&lines=Crafting+elegant+solutions+%F0%9F%92%AB;Turning+ideas+into+reality+%F0%9F%8C%B8;Always+learning%2C+always+growing+%F0%9F%93%88" alt="Typing SVG" />
-    <!-- Contact Badges -->
-    <p align="center" style="margin: 40px 0;">
-        <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&color=E91E63" alt="LinkedIn"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white&color=F06292" alt="Email"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Portfolio-FF6B35?style=flat-square&logo=firefox&logoColor=white&color=EC407A" alt="Portfolio"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&color=C2185B" alt="Twitter"/></a>
-    </p>
-    <!-- Decorative Line -->
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-    <!-- Footer Wave -->
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=F8BBD9&height=100&section=footer&animation=fadeIn" width="100%"/>
+    <!-- Decorative Element -->
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" style="margin: 30px 0;">
+    <!-- Contact Section -->
+    <div style="margin: 50px 0;">
+        <h3 style="color: #E91E63; font-family: 'Poppins', sans-serif; font-weight: 600; margin-bottom: 25px;">
+            🌸 Let's Connect & Create Together
+        </h3>
+        <p align="center">
+            <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=E91E63&color=E91E63" alt="LinkedIn"/></a>&nbsp;&nbsp;
+            <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=E91E63&color=E91E63" alt="Email"/></a>&nbsp;&nbsp;
+            <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=E91E63&color=E91E63" alt="Portfolio"/></a>&nbsp;&nbsp;
+            <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=E91E63&color=E91E63" alt="Twitter"/></a>
+        </p>
+    </div>
+    <!-- Beautiful Divider -->
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" style="margin: 30px 0;">
+    <!-- Footer Shark Wave -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=150&section=footer" width="100%"/>
 </div>
