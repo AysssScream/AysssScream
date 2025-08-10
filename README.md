@@ -207,9 +207,7 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=150&section=header&text=Hello%20World!&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-    <!-- Decorative Element -->
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" style="margin: 30px 0;">
-    <!-- Contact Section -->
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" style="margin: 30px 0;">
     <div style="margin: 50px 0;">
         <h3 style="color: #E91E63; font-family: 'Poppins', sans-serif; font-weight: 600; margin-bottom: 25px;">
             🌸 Let's Connect & Create Together
@@ -221,7 +219,6 @@
             <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=E91E63&color=E91E63" alt="Twitter"/></a>
         </p>
     </div>
-    <!-- Beautiful Divider -->
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" style="margin: 30px 0;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=150&section=footer" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=100&section=footer" width="100%"/>
 </div>
