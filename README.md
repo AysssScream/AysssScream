@@ -116,49 +116,6 @@
 
 ## 💻 Experience
 <div align="center">
-    <table border="0" width="100%" style="background: linear-gradient(135deg, #ffeef8 0%, #ffe0f0 100%); border-radius: 20px; box-shadow: 0 10px 30px rgba(255, 182, 193, 0.3);">
-        <tr>
-            <td align="center" width="33.33%" style="padding: 30px; border-radius: 15px; background: linear-gradient(145deg, #fff0f5, #fce4ec); margin: 10px; box-shadow: 0 8px 25px rgba(233, 30, 99, 0.15);">
-                <div style="background: linear-gradient(135deg, #ff6b9d, #ff8fab); border-radius: 50%; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px; box-shadow: 0 8px 20px rgba(255, 107, 157, 0.4);">
-                    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" style="border-radius: 50%;">
-                </div>
-                <h4 style="color: #d81b60; font-family: 'Arial', sans-serif; font-weight: bold; margin-bottom: 20px; text-shadow: 0 2px 4px rgba(216, 27, 96, 0.2);">✨ Frontend Development</h4>
-                <div style="display: flex; flex-direction: column; gap: 8px; align-items: center;">
-                    <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF1493"/>
-                    <img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white&labelColor=FF1493"/>
-                    <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FF1493"/>
-                    <img src="https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=FF1493"/>
-                    <img src="https://img.shields.io/badge/Tailwind_CSS-FF69B4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=FF1493"/>
-                </div>
-            </td>
-            <td align="center" width="33.33%" style="padding: 30px; border-radius: 15px; background: linear-gradient(145deg, #fff0f5, #fce4ec); margin: 10px; box-shadow: 0 8px 25px rgba(233, 30, 99, 0.15);">
-                <div style="background: linear-gradient(135deg, #ff6b9d, #ff8fab); border-radius: 50%; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px; box-shadow: 0 8px 20px rgba(255, 107, 157, 0.4);">
-                    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" style="border-radius: 50%;">
-                </div>
-                <h4 style="color: #d81b60; font-family: 'Arial', sans-serif; font-weight: bold; margin-bottom: 20px; text-shadow: 0 2px 4px rgba(216, 27, 96, 0.2);">🚀 Backend Development</h4>
-                <div style="display: flex; flex-direction: column; gap: 8px; align-items: center;">
-                    <img src="https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white&labelColor=FF1493"/>
-                    <img src="https://img.shields.io/badge/Laravel-FF69B4?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF1493"/>
-                    <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white&labelColor=FF1493"/>
-                    <img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF1493"/>
-                    <img src="https://img.shields.io/badge/Oracle-FF69B4?style=for-the-badge&logo=oracle&logoColor=white&labelColor=FF1493"/>
-                    <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=java&logoColor=white&labelColor=FF1493"/>
-                </div>
-            </td>
-            <td align="center" width="33.33%" style="padding: 30px; border-radius: 15px; background: linear-gradient(145deg, #fff0f5, #fce4ec); margin: 10px; box-shadow: 0 8px 25px rgba(233, 30, 99, 0.15);">
-                <div style="background: linear-gradient(135deg, #ff6b9d, #ff8fab); border-radius: 50%; width: 120px; height: 120px; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px; box-shadow: 0 8px 20px rgba(255, 107, 157, 0.4);">
-                    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" style="border-radius: 50%;">
-                </div>
-                <h4 style="color: #d81b60; font-family: 'Arial', sans-serif; font-weight: bold; margin-bottom: 20px; text-shadow: 0 2px 4px rgba(216, 27, 96, 0.2);">📱 Desktop & Mobile Development</h4>
-                <div style="display: flex; flex-direction: column; gap: 8px; align-items: center;">
-                    <img src="https://img.shields.io/badge/Visual_Basic-FF69B4?style=for-the-badge&logo=.net&logoColor=white&labelColor=FF1493"/>
-                    <img src="https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=FF1493"/>
-                </div>
-            </td>
-        </tr>
-    </table>
-</div>
-    <div align="center">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     </div>
     <h4>🤖 Data Science & Machine Learning</h4>
